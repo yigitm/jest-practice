@@ -1,7 +1,7 @@
-const calculator = () => {
-  const add = () => {};
-  const substract = () => {};
-  const multiple = () => {};
-  const divide = () => {};
+let calculator = {
+  add: (a, b) => a + b,
+  substract: (a, b) => a - b,
+  multiple: (a, b) => a * b,
+  divide: (a, b) => a / b,
 };
-module.exports = stringLength;
+module.exports = calculator;
