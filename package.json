@@ -1,0 +1,23 @@
+{
+  "name": "jest-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "stringLength.test.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yigitm/jest-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yigitm/jest-practice/issues"
+  },
+  "homepage": "https://github.com/yigitm/jest-practice#readme",
+  "devDependencies": {
+    "jest": "^27.4.3"
+  }
+}
